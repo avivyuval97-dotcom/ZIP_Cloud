@@ -1,0 +1,5 @@
+# External reference data (BONUS): merchants flagged as high-risk.
+# Synthetic demo values. One merchant id per line; '#' lines are comments.
+m-7
+m-13
+m-23

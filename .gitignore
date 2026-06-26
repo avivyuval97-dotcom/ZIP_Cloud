@@ -1,0 +1,14 @@
+# Build output
+target/
+*.jar
+
+# Generated at runtime
+output/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store

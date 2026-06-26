@@ -1,0 +1,5 @@
+# External reference data (BONUS): high-risk country codes.
+# Synthetic demo values chosen from the simulator's country pool so the
+# enrichment is observable in alerts. One country code per line.
+NL
+ES
