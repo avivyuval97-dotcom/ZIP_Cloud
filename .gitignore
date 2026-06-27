@@ -9,6 +9,9 @@ output/
 .idea/
 *.iml
 
+# Claude Code (local settings)
+.claude/
+
 # OS
 Thumbs.db
 .DS_Store
